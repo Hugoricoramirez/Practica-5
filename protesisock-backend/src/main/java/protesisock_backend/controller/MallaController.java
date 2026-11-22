@@ -18,7 +18,9 @@ public class MallaController {
             "bateria", "90%",
             "presion", "Normal",
             "temperatura", "36.4 C",
-            "humedad", "44%"
+            "humedad", "44%",
+            "ultimoMensaje", "Lectura correcta sin incidencias",
+            "fechaHoraUltimoMensaje", "2026-11-22 20:15"
         );
     }
 }
