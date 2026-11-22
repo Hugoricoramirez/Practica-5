@@ -13,6 +13,7 @@ public class ControlerHugo {
         Presión: 35 kpa
         Temperatura: 36.4 ºC
         Humedad: 52%
+        Conexión Bluetooth activa
         """;
     }
 
