@@ -5,6 +5,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class AlertaController {
+    
+    /**
+     * Endpoint REST que devuelve el estado actual de las alertas
+     * generadas por los sensores de presion, temperatura y humedad de la malla.
+     */
 
     @GetMapping("/alertas")
     public String obtenerAlertas() {
